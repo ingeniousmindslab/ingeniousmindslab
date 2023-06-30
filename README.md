@@ -11,19 +11,14 @@
 <a href="https://www.linkedin.com/company/ingeniousmindslab/">
   <img align="left" alt="Ingenious Mind Lab's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
+<br /><br/>
 
-![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
-
-<br />
-
-hi, We the [Ingenious Minds Lab]([https://abhishknads.me/](https://ingeniousmindslab.com/)), a passionate self-taught full stack web developer and a freelance software engineer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
-
-i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
+hi, We the [Ingenious Minds Lab Solution Pvt Ltd](http://ingeniousmindslab.com/), a passionate self-taught full stack web developer and a freelance software engineer from INDIA / USA / CANADA / GERMANY / UK. Our passion for software lies with dreaming up ideas and making them come true with elegant interfaces. We take great care in the experience, architecture, and code quality of the things we build.
 
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
-- 💼 any freelance work? do reach, [email](mailto:abhishek.naidu@cred.club) :)
+- 💼 any freelance work? do reach, [email](mailto:sales@ingeniousmindslab.com) :)
 - 💬 ask me about anything, i am happy to help;
 
 **languages and tools:**  
@@ -38,36 +33,17 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bootstrap.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/csharp.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/go.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/kubernetes.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/lodash.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/ruby.svg"></code>
 
-📊 **this week i spent my time on:**
-<!--START_SECTION:waka-->
-
-```txt
-TypeScript   6 hrs 57 mins   █████████████████▓░░░░░░░   71.06 %
-JSON         58 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.99 %
-JavaScript   25 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 %
-Other        23 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 %
-Vue.js       21 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 %
-```
-
-<!--END_SECTION:waka-->
-
-if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
-
-<a href="https://www.buymeacoffee.com/abhisheknaiidu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
-
-🚧 **my todoist stats:**
-<!-- TODO-IST:START -->
-🏆  7,995 Karma Points           
-🌸  Completed 0 tasks today           
-✅  Completed 673 tasks so far           
-⏳  Longest streak is 10 days
-<!-- TODO-IST:END -->
-
-
-📈 my github stats
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+<a href="https://ingeniousmindslab.com/hire-dedicated-developers/" target="_blank">Hire Dedicated Developer</a>
 
 
 
